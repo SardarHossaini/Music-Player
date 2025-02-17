@@ -1,6 +1,6 @@
-# Music Player
+# My Portfolio
 
-Welcome to the Music Player web interface you can play music on your device with your web browser. it background is also changed in the web browser with every changes that make it interesting to play music on your device with your web browser.
+Welcome to the protfolio web interface you can read about my self and about my study. You can see my skills and my photo and you can connet with me in social media and inbox.
 
 ## Features
 
@@ -8,7 +8,7 @@ Welcome to the Music Player web interface you can play music on your device with
 - Clean and maintainable code
 - Cross-browser compatibility
 - Interactive elements
-- Good desing
+- Good design
 
 ## Technologies Used
 
